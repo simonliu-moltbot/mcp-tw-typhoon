@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import sys
 import re
-from typing import List, Dict, Optional
+from typing import List, Dict, Optional, Any
 
 DGPA_URL = "https://www.dgpa.gov.tw/typh/daily/nds.html"
 
